@@ -4,7 +4,7 @@ This repository contains a collection of C++ practical assignments from the Prog
 
 # 📘 Syntax C++ yang Baru Dipelajari
 
-Berikut adalah beberapa syntax penting dalam C++ yang sering digunakan untuk **manipulasi input/output** agar program lebih interaktif dan rapi.
+Berikut adalah beberapa syntax penting dalam C++ yang dipelajari pada week 2 digunakan untuk **manipulasi input/output** agar program lebih interaktif dan rapi.
 
 ---
 
@@ -50,5 +50,5 @@ Biasanya dipakai bersamaan dengan `setw(...)` agar teks tidak default ke kanan.
 
 ---
 
-✦ Dengan syntax ini, kamu bisa membuat **output program lebih profesional, terstruktur, dan mudah dibaca**.
+✦ Dengan syntax ini, bisa membuat **output program lebih profesional, terstruktur, dan mudah dibaca**.
 

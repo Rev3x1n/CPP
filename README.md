@@ -50,5 +50,13 @@ Biasanya dipakai bersamaan dengan `setw(...)` agar teks tidak default ke kanan.
 
 ---
 
+#include <iostream> - Mengimpor fungsi input/output
+setw(5) - lebar kolom output
+left - teks rata kiri
+getline() - Untuk membaca string dengan spasi
+cin.ignore() - Untuk membersihkan buffer input
+fixed - Format angka desimal tetap
+setprecision(n) - Mengatur jumlah digit desimal
+
 ✦ Dengan syntax ini, bisa membuat **output program lebih profesional, terstruktur, dan mudah dibaca**.
 
